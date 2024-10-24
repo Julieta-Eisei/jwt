@@ -1,0 +1,10 @@
+C:\Openshift\jwt\src\main\java\com\api\jwt\JwtApplication.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\service\UserService.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\security\SecurityConfig.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\controller\SumaController.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\security\JwtUtil.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\controller\AuthController.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\model\Usuario.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\security\CustomUserDetailsService.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\model\SumaRequest.java
+C:\Openshift\jwt\src\main\java\com\api\jwt\security\JwtRequestFilter.java

@@ -1,6 +1,9 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 17
+Built-By: julieta.gonzalez
+Build-Jdk: 17.0.6
 Implementation-Title: jwt
 Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.api
+Implementation-URL: 
 Created-By: Maven Integration for Eclipse
 

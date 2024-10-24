@@ -1,0 +1,10 @@
+com\api\jwt\model\SumaRequest.class
+com\api\jwt\security\JwtUtil.class
+com\api\jwt\security\CustomUserDetailsService.class
+com\api\jwt\security\SecurityConfig.class
+com\api\jwt\controller\SumaController.class
+com\api\jwt\model\Usuario.class
+com\api\jwt\service\UserService.class
+com\api\jwt\security\JwtRequestFilter.class
+com\api\jwt\JwtApplication.class
+com\api\jwt\controller\AuthController.class
